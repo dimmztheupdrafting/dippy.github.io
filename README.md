@@ -1,5 +1,5 @@
-# gn-math.github.io
-gn-math is the best unblocked games site to play at school.
+# dippy.github.io
+dippy is the best unblocked games site to play at school.
 ## features:
 - hundreds of links (in the discord)
 - games literally NOBODY has:
